@@ -5,4 +5,4 @@ This little projects shows how to implement the K-Means clustering algorithm app
 Some pre-processing is computed using python scripts in order to represent the image in a better way and to easily find suitable initial centroids for the algorithm.
 
 In Cuda K-Means routine global memory and constant memory are involved.
-Future work will include also the texture memory to contain the entire picture with better performance.
+Future work will include also the texture memory to contain the entire picture allowing a better performance of the algorithm.
